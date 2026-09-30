@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/TaskReview/">
+    <Project Path="Tyuiu.YampolskyMO.Sprint0.TaskReview.V0.Lib/Tyuiu.YampolskyMO.Sprint0.TaskReview.V0.Lib.csproj" Id="7ce526df-3a4d-4ce9-aec2-091139464947" />
+    <Project Path="Tyuiu.YampolskyMO.Sprint0.TaskReview.V0.Test/Tyuiu.YampolskyMO.Sprint0.TaskReview.V0.Test.csproj" Id="4c959538-1400-4b3d-a606-1cf233ecd045" />
+    <Project Path="Tyuiu.YampolskyMO.Sprint0.TaskReview.V0/Tyuiu.YampolskyMO.Sprint0.TaskReview.V0.csproj" Id="b1decbde-bac5-4b1f-96d2-bf5a0ea6210d" />
+  </Folder>
+</Solution>
